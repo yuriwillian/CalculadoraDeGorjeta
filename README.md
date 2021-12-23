@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido com Javascript, HTML 5 e CSS 3. O objetivo é calcular quanta gorjeta será cobrada do consumidor baseando-se no valor da conta e a porcentagem (%) inseridas no site.

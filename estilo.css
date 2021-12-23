@@ -1,0 +1,59 @@
+body {
+    background-color: rgba(251, 255, 38, 0.849);
+}
+header {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+h1 {
+    font: normal 20pt Bungee;
+    color: red;
+}
+h2 {
+    font: normal 16pt Bungee;
+    color: rgba(0, 0, 0, 0.747);
+}
+section {
+    text-align: center;
+    background: white;
+    padding: 40px;
+    border-radius: 70px;
+}
+p {
+    font: normal 11pt Bungee;
+}
+input#valor {
+    width: 70px;
+    border-style: dotted;
+}
+input#porcentagem{
+    width: 70px;
+    border-style: dotted;
+}
+p#ctaCalcular {
+    font: normal 13pt Bungee;
+    color: red;
+}
+input#calcular {
+    width: 200px;
+    height: 50px;
+    border-radius: 100px;
+    border-style: hidden;
+    font: normal 15pt Bungee;
+    color: white;
+    background: red;
+}
+div#divMoeda{
+    font: normal 11pt Bungee;
+}
+div#divPorcentagem {
+    font: normal 11pt Bungee;
+}
+footer {
+    text-align: center;
+}
+p#copy {
+    color: rgba(255, 0, 0, 0.733);
+    font: normal 15pt Bungee;
+}
